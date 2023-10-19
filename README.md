@@ -34,7 +34,3 @@
 ## Step 6: Review and Create Pipeline 
 
 #This will automatically trigger the CodePipeline, which will build the Docker image, push it to Amazon ECR, and update the ECS service with the new image.
-
-# Command to start this application:
-
-docker-compose up -d
