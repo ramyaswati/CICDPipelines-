@@ -47,4 +47,6 @@
     service name > create earlier
 ## Step 6: Review and Create Pipeline 
 
+# Netwok security configuration screenshot added to Images .
+
 ## Closure : This will automatically trigger the CodePipeline, which will build the Docker image, push it to Amazon ECR, and update the ECS service with the new image.
