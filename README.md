@@ -2,7 +2,7 @@
 
 #As Part of solution we are creating Elastic container service ECS and deploy using AWS CodePipelines. 
 
-###Initial code commit and creating of Elastic container service ECS 
+### Initial code commit and creating of Elastic container service ECS 
 
 ## Step 1 : Created a Git Repository in git hub and commited the locally build node js project code to my git repo.
 ## Step 2: Created ECR Repo in AWS > build the docker image locally , login to ECR , tag the image and push to AWS ECR .
@@ -24,7 +24,7 @@
 
 # Netwok security configuration screenshot added to Images .
 
-###Setting up AWS CodePipeline
+### Setting up AWS CodePipeline
 
 ## Step 1: Created New AWS CodePipelines named ecs-pipeline 
 ## Step 2: Configured the Source Stage with my Git repository mapping
